@@ -13,21 +13,15 @@ A Java-based console application that helps users manage tasks, generate daily a
 - Create a weekly plan
 - View pending and completed tasks
 ### ✔ Reporting
+- View progress summary
+- Check workload distribution
+- Display structured schedules in the console
+### ✔ File-Based Storage
+- All tasks are stored in tasks.txt
+- Data remains available even after program is closed
 
-View progress summary
-
-Check workload distribution
-
-Display structured schedules in the console
-
-✔ File-Based Storage
-
-All tasks are stored in tasks.txt
-
-Data remains available even after program is closed
-
-Project Structure
-SmartProductivitySystem/
+## Project Structure
+```SmartProductivitySystem/
 │
 ├── src/
 │   ├── Main.java
@@ -48,7 +42,8 @@ SmartProductivitySystem/
 │         └── tasks.txt
 │
 └── screenshots/
-      (Application run output and task operations)
+      (Application run output and task operations)```
+
 
 How to Run the Project
 1. Clone the repository
