@@ -36,12 +36,8 @@ SmartProductivitySystem/
 │   │     └── ReportGenerator.java
 │   │
 │   ├── utils/
-│   │     ├── FileHandler.java
-│   │     └── InputValidator.java
-│   │
-│   └── data/
-│         └── tasks.txt
-│
+│        ├── FileHandler.java
+│        └── InputValidator.java
 └── screenshots/
 ```
 ## How to Run the Project
