@@ -41,9 +41,7 @@ A Java-based console application that helps users manage tasks, generate daily a
 │   └── data/
 │         └── tasks.txt
 │
-└── screenshots/
-      (Application run output and task operations)```
-
+└── screenshots/```
 
 How to Run the Project
 1. Clone the repository
